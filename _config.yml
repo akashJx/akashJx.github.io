@@ -13,12 +13,12 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Akash Hansda                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -28,23 +28,23 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://akashJx.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: akashJx             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: aakashJx            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Akash Hansda
+  email: aakash.hansda@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/aakashJx      # change to your twitter homepage
+    - https://github.com/akashJx       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media-exp1.licdn.com/dms/image/C5603AQFPEG49NyTGEg/profile-displayphoto-shrink_800_800/0/1590910330538?e=1645056000&v=beta&t=RuSj9cT7MpANKDthZ_AZolkMEXlSjh9jKjnwToSjXps
 
 # boolean type, the global switch for ToC in posts.
 toc: true
